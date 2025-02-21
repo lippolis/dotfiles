@@ -1,0 +1,21 @@
+# OS generated files #
+######################
+.DS_Store
+.Trash-*
+Thumbs.db
+
+# log and temp files
+*.log
+*.tmp
+*.bak
+
+# package manager files
+vendor/
+node_modules/
+venv*
+
+# ide files
+.vscode/
+*.code-workspace
+
+__pycache__/

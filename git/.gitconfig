@@ -1,0 +1,14 @@
+[user]
+    name = Angelo Lippolis
+    email = info@alippolis.com
+
+[core]
+	excludesfile = ~/.gitignore_global
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[diff]
+	colorMoved = zebra
+[help]
+    autoCorrect = immediate
