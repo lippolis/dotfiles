@@ -1,0 +1,70 @@
+{
+	"[rust]": {
+		"editor.defaultFormatter": "statiolake.vscode-rustfmt",
+		"editor.formatOnSave": true
+	},
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"files.autoSave": "afterDelay",
+	"workbench.iconTheme": "Monokai Pro Light (Filter Sun) Icons",
+	"editor.fontSize": 16,
+	"editor.formatOnPaste": true,
+	"files.autoSaveDelay": 2000,
+	"editor.lineHeight": 31,
+	"debug.console.lineHeight": 10,
+	"workbench.tree.renderIndentGuides": "always",
+	"editor.smoothScrolling": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.minimap.enabled": false,
+	"editor.minimap.renderCharacters": false,
+	"editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+	"workbench.startupEditor": "none",
+	"terminal.integrated.fontSize": 16,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"security.workspace.trust.untrustedFiles": "open",
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"explorer.confirmDelete": false,
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"terminal.integrated.inheritEnv": false,
+	"prettier.tabWidth": 4,
+	"window.commandCenter": true,
+	"editor.inlineSuggest.enabled": true,
+	"git.confirmSync": false,
+	"[python]": {
+		"editor.formatOnSaveMode": "file",
+		"editor.formatOnType": false,
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll": "explicit",
+			"source.organizeImports": "explicit"
+		},
+		"editor.defaultFormatter": "charliermarsh.ruff",
+	},
+	"ruff.nativeServer": "on",
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.fontLigatures": false,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.wordWrap": "on",
+	"python.missingPackage.severity": "Error",
+	"python.languageServer": "Jedi",
+	"python.terminal.activateEnvInCurrentTerminal": true,
+	"database-client.autoSync": true
+}
+
